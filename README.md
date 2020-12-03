@@ -63,7 +63,6 @@ yarn android
    - [yarn](https://yarnpkg.com/)
    - [Node.js](https://nodejs.org/en/)
    - [React Native](https://reactjs.org/)
-   - [TypeORM](https://typeorm.io/#/)
    - [Axios](https://github.com/axios/axios)
    
   </p>
