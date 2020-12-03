@@ -68,7 +68,7 @@ yarn android
   </p>
 </div>
 
-# Contributing
+# Contribua
 
 1. Faça o _fork_ do projeto (<https://github.com/Valirio/nlw2/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
